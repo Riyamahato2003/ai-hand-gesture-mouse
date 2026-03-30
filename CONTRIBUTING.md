@@ -1,8 +1,19 @@
-# How to Contribute
+# Contribution Guidelines
 
-We welcome contributions! Here’s how to get started:
+Thank you for considering contributing to our project! We welcome contributions from everyone.
 
-1. Fork the repo.
-2. Create a feature branch.
-3. Make your changes.
-4. Submit a pull request.
+## How to Contribute
+
+1. Fork the repository.
+2. Create a new branch with your feature or fix.
+3. Make your changes and commit them.
+4. Push your changes to your fork.
+5. Create a pull request.
+
+## Guidelines
+- Please write descriptive commit messages.
+- Follow the coding style of the project.
+- Ensure your code is well-tested.
+
+## Reporting Issues
+If you find any bugs or issues, please report them in the issues section.
